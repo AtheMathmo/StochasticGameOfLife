@@ -1,5 +1,7 @@
 # Stochastic Game of Life
 
+_This is an old project which I am no longer working on._
+
 This repository contains a simple java applet which presents a twist on [Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life). In the classic version the following rules apply:
 
 1. Any live cell with fewer than two live neighbours dies, as if caused by under-population.
